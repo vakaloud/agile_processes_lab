@@ -1,4 +1,4 @@
 test
 ***************************
-FEATURE
+FEATURE1
 MASTER
