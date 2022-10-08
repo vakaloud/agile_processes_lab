@@ -3,7 +3,11 @@ package com.example.demo;
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
 import org.springframework.web.bind.annotation.*;
-
+/**
+ * 
+ * @author Alex.Vakaloudis
+ *
+ */
 @SpringBootApplication
 @RestController
 public class DemoApplication {
