@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
  */
 @SpringBootApplication
 @RestController
-spublic class DemoApplication {
+public class DemoApplication {
 
 	@GetMapping("/")
 	String home() {
