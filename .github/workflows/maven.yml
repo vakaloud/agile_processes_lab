@@ -25,4 +25,4 @@ jobs:
     - name: Build with Maven
       run: mvn --batch-mode deploy
         env:
-          GITHUB_TOKEN: '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'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
