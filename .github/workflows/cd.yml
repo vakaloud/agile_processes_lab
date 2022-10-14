@@ -5,7 +5,7 @@ env:
 name: CD
 
 on:
-  push:
+  release:
     branches: [ "master" ]
 
 jobs:
