@@ -2,7 +2,7 @@ env:
   JAVA_VERSION: '11'                  # set this to the Java version to use
   DISTRIBUTION: zulu                  # set this to the Java distribution
 
-name: Publish package to GitHub Packages
+name: CD
 
 on:
   push:
