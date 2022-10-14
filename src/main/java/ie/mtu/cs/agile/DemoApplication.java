@@ -1,4 +1,4 @@
-package com.example.demo;
+package ie.mtu.cs.agile;
 
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;

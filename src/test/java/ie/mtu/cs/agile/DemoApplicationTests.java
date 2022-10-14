@@ -1,4 +1,4 @@
-package com.example.demo;
+package ie.mtu.cs.agile;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
